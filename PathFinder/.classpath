@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.swt.win32.win32.x86_64_3.103.1.v20140903-1947.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.swt.win32.win32.x86_64.source_3.103.1.v20140903-1947.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/MyLibs/KTable.jar" sourcepath="C:/Program Files/eclipse luna/MyLibs/de.kupzog.KTable_2.2.0_source.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.jface_3.10.0.v20140604-0740.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.jface.source_3.10.1.v20140813-1009.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.jface.databinding_1.6.200.v20140528-1422.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.jface.databinding.source_1.6.200.v20140528-1422.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/de.kupzog.KTable.examples"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
