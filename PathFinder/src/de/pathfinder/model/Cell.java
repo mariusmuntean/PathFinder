@@ -14,8 +14,6 @@ public class Cell {
 		this.key = new Key();
 		this.searchTree = null;
 	}
-
-	
 	
 	class Costs {
 		public int N, NE, E, SE, S, SW, W, NW;

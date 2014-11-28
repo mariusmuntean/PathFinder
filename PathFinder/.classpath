@@ -11,5 +11,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry combineaccessrules="false" kind="src" path="/de.kupzog.KTable.examples"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding_1.4.2.v20140729-1044.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding.source_1.4.2.v20140729-1044.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding.beans_1.2.200.v20140214-0004.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding.beans.source_1.2.200.v20140214-0004.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding.observable.source_1.4.1.v20140210-1835.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding.property_1.4.200.v20140214-0004.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.core.databinding.property.source_1.4.200.v20140214-0004.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar" sourcepath="C:/Program Files/eclipse luna/plugins/org.eclipse.equinox.common.source_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse luna/plugins/com.ibm.icu_52.1.0.v201404241930.jar" sourcepath="C:/Program Files/eclipse luna/plugins/com.ibm.icu.source_52.1.0.v201404241930.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

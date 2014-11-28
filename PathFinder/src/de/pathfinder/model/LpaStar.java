@@ -199,7 +199,6 @@ public class LpaStar {
 			System.out.println(String.format("row:%02d col:%02d", c.row, c.col));
 			c = c.searchTree;
 		}
-
 	}
 
 	private void printMap() {

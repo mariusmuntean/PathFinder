@@ -1,7 +1,6 @@
 package de.pathfinder;
 
 import de.pathfinder.controller.PathFinderController;
-import de.pathfinder.model.MapGenerator;
 import de.pathfinder.model.MapModel;
 import de.pathfinder.view.PathFinderView;
 
